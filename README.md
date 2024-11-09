@@ -53,6 +53,8 @@ python steam_db_sales_scraper_short.py
 
 
 #### Execução do Scraping
+![Amostra do ByPass CloudFlare](prints/bypass.gif)
+
 ![Execução do Scraping](prints/execucao_scraping.png)
 *Descrição:* A visualização mostra o desempenho e o progresso da execução do processo de scraping.
 
