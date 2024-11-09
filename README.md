@@ -68,7 +68,7 @@ streamlit run dashboard.py
 
 
 ## Link para o Google Sheets
-Para compartilhar os dados, foi criado um Google Sheets conectado ao BigQuery com os dados extraídos. Confira os dados atualizados [neste link](https://link_para_seu_google_sheet).
+Para compartilhar os dados, foi criado um Google Sheets conectado ao BigQuery com os dados extraídos. Confira os dados atualizados [neste link](https://docs.google.com/spreadsheets/d/1gvP-EukSc_XbGuRzOC4mHOa9ufYsSwFcu-4CBDos-3A/edit?usp=sharing).
 
 
 ## Prints do Dashboard
